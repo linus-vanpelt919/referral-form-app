@@ -1,0 +1,11 @@
+.main {
+  max-width: 600px;
+  width: 100%;
+  margin: 100px auto 0;
+}
+.chakra-form-control + .chakra-form-control {
+  margin-top: 20px;
+}
+.btn {
+  background: #ff6600;
+}
